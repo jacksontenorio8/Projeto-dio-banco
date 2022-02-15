@@ -1,6 +1,6 @@
 package br.com.jacksontenorio8;
 
-public class Banco {
+public class Cliente {
     private String nome;
 
     public String getNome() {

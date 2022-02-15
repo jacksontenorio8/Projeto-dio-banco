@@ -1,4 +1,5 @@
 package br.com.jacksontenorio8;
 
-public class ContaPoupanca {
+public class ContaPoupanca extends Conta{
+
 }
