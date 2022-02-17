@@ -1,6 +1,6 @@
 # Projeto-dio-banco
 
-##Projeto de uma fintch fictícia com orientação a objetos.
+## Projeto de uma fintch fictícia com orientação a objetos.
 
 * O rendimento das conta é de 0.005 ao mês
 * Para sacar é cobrado uma taxa 6.0 por saque
